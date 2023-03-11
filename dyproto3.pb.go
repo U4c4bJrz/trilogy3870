@@ -4,7 +4,7 @@
 // 	protoc        v3.21.12
 // source: dyproto3.proto
 
-package trilogy3870
+package dyproto3
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
